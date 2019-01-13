@@ -13,7 +13,18 @@ This project was part of the programming course in 2018-2
 4. With user query(movie) from command, suggest the opinions with tags.
 5. suggest some additional functionalities.
 
-## 2. Dataset (Format CSV with delimeter ::)
+## 2. Dataset (Format CSV with delimeter '::' )
+Original source : https://movielens.org/
+(Quotation of README.html file)
+Summary
+This data set contains 95580 tags applied to 10681 movies by 71567 users of the online movie recommender service MovieLens.
+
+Users were selected at random for inclusion. All users selected had rated at least 20 movies. Unlike previous MovieLens data sets, no demographic information is included. Each user is represented by an id, and no other information is provided.
+
+The data are contained in two files, movies.dat and tags.dat. More details about the contents and use of all these files follows.
+
+This and other GroupLens data sets are publicly available for download at GroupLens Data Sets.
+
 
 ### Movies.dat ( Movie ID :: Movie Name :: Genres (with delimeter |) (about 10000 lines)
 
