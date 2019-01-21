@@ -57,4 +57,19 @@ sample data
 31::546::strangely compelling::1188263674
 
 
-... to be modified ...
+## 3. Functionalities
+
+### Basic Functions
+
+#### -Tag query Fuction
+Tag query by movie names
+
+#### -Movie query Fuction
+Movie query by tags
+
+### Additional Fuctions
+#### -Movie name search 
+When user input part of the movie name, The full name of movie come out
+
+#### -Movie Recommendation
+When User Id is inputted, The program recommendate a movie which is based on users preference based on genre
